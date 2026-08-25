@@ -2,7 +2,7 @@
 
 > Cross-dataset generalization study of ML-based Intrusion Detection Systems
 > with protocol-level analysis of dataset shift.
-> **Course:** Network Protocols & Security (NPS)
+> **Course:** Artificial Intelligence 
 
 ---
 
